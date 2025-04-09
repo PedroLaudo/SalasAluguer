@@ -25,7 +25,7 @@ namespace SalasAluguer.Data
             modelBuilder.Entity<Limpeza>()
                 .HasKey(l => new { l.IdSala, l.IdUtilizador }); // Chave composta
 
-            // Configurações adicionais se necessário
+            
         }
     }
 }
