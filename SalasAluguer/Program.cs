@@ -1,4 +1,4 @@
-using Aluguer_Salas.Data;  // <-- Certifique-se de que este using esteja presente.
+
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using SalasAluguer.Data;

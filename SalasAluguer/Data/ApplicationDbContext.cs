@@ -1,8 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Aluguer_Salas.Data;
 using SalasAluguer.Data;
 
-namespace Aluguer_Salas.Data
+
+namespace SalasAluguer.Data
 {
     public class ApplicationDbContext : DbContext
     {
